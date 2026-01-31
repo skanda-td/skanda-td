@@ -33,6 +33,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=skanda-td&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <div align="center">
+  
 🎯 **“Code is like humor. When you have to explain it, it’s bad.”**  
 — *Cory House*
+
 </div>
