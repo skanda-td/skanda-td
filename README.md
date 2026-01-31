@@ -5,8 +5,6 @@
 
 </div>
 
----
-
 ## 🚀 About Me
 
 Backend Engineer building production-ready services with Java and Spring Boot, focused on clean business logic, reliable APIs, and data correctness. I enjoy solving backend problems that value clarity, performance, and long-term maintainability. Outside work, I like building small things and reading broadly out of curiosity.
