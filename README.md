@@ -14,6 +14,12 @@
 
 🌐 **Connect with Me** : [LinkedIn](https://linkedin.com/in/skanda-tejaswi-d)
 
+<table>
+<tr>
+<td valign="top" width="55%">
+
+### 🛠️ Skills
+
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
@@ -27,15 +33,25 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<div align="center">
+</td>
+
+<td valign="top" width="45%" align="center">
+
+<br/>
+
+![](https://nirzak-streak-stats.vercel.app/?user=skanda-td&theme=dark&hide_border=true)
+
+<br/>
 
 ![](https://github-readme-stats.vercel.app/api?username=skanda-td&theme=dark&hide_border=true)
+
 <br/>
-![](https://nirzak-streak-stats.vercel.app/?user=skanda-td&theme=dark&hide_border=true)
-<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=skanda-td&theme=dark&hide_border=true&layout=compact)
 
-</div>
+</td>
+</tr>
+</table>
 
 <div align="center">
   
