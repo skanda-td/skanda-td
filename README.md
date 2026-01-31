@@ -9,31 +9,21 @@
 
 Backend Engineer building production-ready services with Java and Spring Boot, focused on clean business logic, reliable APIs, and data correctness. I enjoy solving backend problems that value clarity, performance, and long-term maintainability. Outside work, I like building small things and reading broadly out of curiosity.
 
----
-
 ## 💼 Current Work
 
 - 🔭 Working on backend services using Java and Spring Boot, with a focus on SQL-heavy workflows and production reliability.
-
----
 
 ## 📚 Learning & Growth
 
 - 🌱 Improving problem-solving skills through Data Structures and Algorithms.
 
----
-
 ## 📞 Contact
 
 - 📫 **skanda.d26@gmail.com**
 
----
-
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/skanda-tejaswi-d)
-
----
 
 ## 🛠️ Skills
 
@@ -58,8 +48,6 @@ Backend Engineer building production-ready services with Java and Spring Boot, f
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
 
 <div align="center">
 
