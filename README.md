@@ -26,6 +26,14 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+## 📊 GitHub Activity
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=skanda-td&theme=dark&hide_border=true)
+
+</div>
+
 <div align="center">
 
 🎯 **“Code is like humor. When you have to explain it, it’s bad.”**  
