@@ -27,10 +27,11 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=skanda-td&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=skanda-td&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=skanda-td&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=skanda-td&theme=dark&hide_border=true)
+
+</div>
 
 <div align="center">
   
