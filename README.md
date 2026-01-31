@@ -29,7 +29,5 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 <div align="center">
-
-> *“Code is like humor. When you have to explain it, it’s bad.”* — Cory House  
-
+*“Code is like humor. When you have to explain it, it’s bad.”* — Cory House  
 </div>
