@@ -14,44 +14,15 @@
 
 🌐 **Connect with Me** : [LinkedIn](https://linkedin.com/in/skanda-tejaswi-d)
 
-<table>
-<tr>
-<td valign="top" width="55%">
-
-### 🛠️ Skills
-
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</td>
-
-<td valign="top" width="45%" align="center">
-
-<br/>
-
-![](https://nirzak-streak-stats.vercel.app/?user=skanda-td&theme=dark&hide_border=true)
-
-<br/>
-
+<div align="center">
+  
 ![](https://github-readme-stats.vercel.app/api?username=skanda-td&theme=dark&hide_border=true)
-
 <br/>
-
+![](https://nirzak-streak-stats.vercel.app/?user=skanda-td&theme=dark&hide_border=true)
+<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=skanda-td&theme=dark&hide_border=true&layout=compact)
 
-</td>
-</tr>
-</table>
+</div>
 
 <div align="center">
   
