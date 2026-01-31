@@ -29,7 +29,11 @@
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=skanda-td&theme=dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=skanda-td&theme=dark&hide_border=true)
+<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=skanda-td&theme=dark&hide_border=true)
+<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=skanda-td&theme=dark&hide_border=true&layout=compact)
 
 </div>
 
