@@ -1,74 +1,99 @@
-# Skanda Tejaswi D
+<div align="center">
 
-Backend Engineer focused on **Java, Spring Boot, and PostgreSQL**.  
-I build backend systems that prioritize **correctness, performance, and long-term maintainability**.
+# Hi 👋, I'm Skanda Tejaswi D
+
+### Backend Engineer | Java & Spring Boot | Bengaluru, India
+
+</div>
+
+## 🚀 About Me
+
+Backend Engineer with experience building production-ready services using Java and Spring Boot. I focus on clean business logic, well-designed APIs, and data correctness, with hands-on exposure to SQL-heavy systems, microservices, and containerized deployments. I enjoy working on backend problems that require clarity, performance, and long-term maintainability. Outside of delivery, I enjoy building small solutions and reading books on general topics beyond technology, mostly out of curiosity.
+
+## 💼 Current Work
+
+<div align="left">
+
+- 🔭 I'm currently working on **Backend services using Java and Spring Boot, focusing on clean business logic, SQL-heavy workflows, and production-ready APIs.**
+- 👯 I'm looking to collaborate on **Backend-focused projects involving Spring Boot, PostgreSQL, microservices, system design discussions, and practical AI integrations.**
+- 🤝 I'm looking for help with **Designing scalable backend architectures and improving observability, performance, and reliability in real-world systems.**
+
+</div>
+
+## 📚 Learning & Knowledge
+
+<div align="left">
+
+- 🌱 I'm currently learning **Data Structures and Algorithms to improve problem-solving skills.**
+
+</div>
+
+## 📞 Contact & Links
+
+<div align="left">
+
+- 📫 How to reach me **skanda.d26@gmail.com**
+
+</div>
+
+## ⚡ Fun Fact
+
+<div align="center">
+
+*I think I am funny.*
+
+</div>
+
+## 🌐 Connect with Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/skanda-tejaswi-d)
+
+</div>
+
+## 🛠️ Skills & Technologies
+
+### 💻 Programming Languages
+
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+
+### 💻 Backend Development
+
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)&nbsp;&nbsp;&nbsp;![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+### 💻 AI/ML
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)&nbsp;&nbsp;&nbsp;![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;&nbsp;&nbsp;![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white)&nbsp;&nbsp;&nbsp;![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+### 💻 Database
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;&nbsp;&nbsp;![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 💻 Data Visualization
+
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
+### 💻 DevOps
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp;&nbsp;&nbsp;![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+### 💻 Backend as a Service (BaaS)
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### 💻 Software
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-## What I Care About
+<div align="center">
 
-- Clear and predictable **business logic**
-- Well-designed **REST APIs**
-- **Data correctness** and SQL performance
-- Systems that are **easy to reason about and operate in production**
-- Practical engineering over hype
+### 🎯 "Code is like humor. When you have to explain it, it's bad." – Cory House
 
----
+**Thank you for visiting my profile! 😊**
 
-## Technical Focus
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen&style=flat-square&label=Profile+Views)
 
-**Backend**
-- Java, Spring Boot
-- REST APIs, Microservices
-- PostgreSQL, SQL optimization
-
-**Infrastructure & Ops**
-- Docker, Kubernetes, Helm
-- CI/CD pipelines
-- Prometheus, Grafana
-
-**Supporting**
-- Kafka
-- OpenAPI, GraphQL
-
----
-
-## How I Use GitHub
-
-I use GitHub for:
-- Clean **reference implementations**
-- Backend **design experiments**
-- Java & SQL **interview-grade problem solving**
-- Notes and utilities I actually reuse at work
-
-Most repositories here are intentionally:
-- Small
-- Focused
-- Easy to understand
-- Close to real production scenarios
-
----
-
-## Selected Areas of Work
-
-- Document processing and storage backends
-- Rule-based business logic (Java / Drools)
-- Backend services running in containerized environments
-- SQL-heavy workflows where performance matters
-
----
-
-## GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=skanda-td&show_icons=true&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=skanda-td&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=skanda-td&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-## Contact
-
-- LinkedIn: https://www.linkedin.com/in/skanda-tejaswi-d
-- Email: skanda.d26@gmail.com
+</div>
