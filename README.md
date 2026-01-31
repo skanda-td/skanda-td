@@ -1,7 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Skanda Tejaswi D  
-### Backend Engineer | Java & Spring Boot | Bengaluru, India
+# Hi 👋, I'm Skanda Tejaswi D
 
 </div>
 
