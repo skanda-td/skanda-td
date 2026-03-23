@@ -4,11 +4,7 @@
 
 </div>
 
-🚀 **About Me** : Backend Engineer building production-ready services with Java and Spring Boot, focused on clean business logic, reliable APIs, and data correctness. I enjoy solving backend problems that value clarity, performance, and long-term maintainability. Outside work, I like building small things and reading broadly out of curiosity.
-
-💼 **Current Work** : Working on backend services using Java and Spring Boot, with a focus on SQL-heavy workflows and production reliability.
-
-📚 **Learning & Growth** : Improving problem-solving skills through Data Structures and Algorithms.
+Computer Science Engineer currently working as a Backend Developer. I share my learnings related to backend development, AI/ML.
 
 📞 **Contact** : skanda.d26@gmail.com  
 
