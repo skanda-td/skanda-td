@@ -11,12 +11,8 @@ Computer Science Engineer currently working as a Backend Developer. I share my l
 🌐 **Connect with Me** : [LinkedIn](https://linkedin.com/in/skanda-tejaswi-d)
 
 <div align="center">
-  
-![](https://github-readme-stats.vercel.app/api?username=skanda-td&theme=dark&hide_border=true)
-<br/>
+
 ![](https://nirzak-streak-stats.vercel.app/?user=skanda-td&theme=dark&hide_border=true)
-<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=skanda-td&theme=dark&hide_border=true&layout=compact)
 
 </div>
 
