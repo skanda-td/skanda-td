@@ -4,7 +4,7 @@
 
 </div>
 
-Computer Science Engineer currently working as a Backend Developer. I share my learnings related to backend development, AI/ML.
+Computer Science Engineer currently working as a Backend Developer. I share my learnings related to backend development, AI/ML, and other technologies.
 
 📞 **Contact** : skanda.d26@gmail.com  
 
