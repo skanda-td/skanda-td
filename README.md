@@ -12,7 +12,7 @@ Computer Science Engineer currently working as a Backend Developer. I share my l
 
 <div align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=skanda-td&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=skanda-td&theme=tokyonight)
 
 </div>
 
