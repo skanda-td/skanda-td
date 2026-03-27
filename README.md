@@ -21,7 +21,9 @@ Computer Science Engineer currently working as a Backend Developer. I share my l
 ![](https://github-readme-activity-graph.vercel.app/graph?username=skanda-td&theme=github-dark)
 
 </div>
-  
+
+<div align="center">
+
 🎯 **“Code is like humor. When you have to explain it, it’s bad.”**  
 — *Cory House*
 
