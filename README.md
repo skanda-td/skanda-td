@@ -12,11 +12,15 @@ Computer Science Engineer currently working as a Backend Developer. I share my l
 
 <div align="center">
 
-![](https://nirzak-streak-stats.vercel.app/?user=skanda-td&theme=dark&hide_border=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=skanda-td&theme=github_dark)
+
+![](https://github-readme-stats.vercel.app/api?username=skanda-td&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=skanda-td&layout=compact&theme=tokyonight)
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=skanda-td&theme=github-dark)
 
 </div>
-
-<div align="center">
   
 🎯 **“Code is like humor. When you have to explain it, it’s bad.”**  
 — *Cory House*
