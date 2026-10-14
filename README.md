@@ -1,6 +1,6 @@
 <div align="center">
   
-# Hi 👋, I'm Skanda Tejaswi D
+# 👋, Skanda here...
 
 </div>
 
